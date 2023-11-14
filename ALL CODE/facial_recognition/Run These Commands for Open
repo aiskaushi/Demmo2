@@ -1,0 +1,14 @@
+Go in facial_recognition>dataset
+and make your name folder and save it and copy the 
+name of folder and change the name in the program 
+headshots_picam.py
+
+*******************************
+#For Traing Model
+cd facial_recognition/
+python3 train_model.py
+
+********************************
+#For Recognice face
+cd facial_recognition/
+python3 facial_req.py
